@@ -1,3 +1,7 @@
 import wiskunde
 
-a = wiskunde.facualiteit(20)
+a = wiskunde.faculteit(20)
+
+print (a)
+
+    
