@@ -3,3 +3,15 @@ def faculteit(n):
     while n > 1:
         totaal *= n
     return n
+
+if __name__ == "__main__" :
+    print(faculiteit(0))
+    print(faculiteit(1))
+    print(faculiteit(2))
+    print(faculiteit(3))
+    print(faculiteit(4))
+    print(faculiteit(5))
+
+
+
+    
