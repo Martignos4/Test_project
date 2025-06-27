@@ -18,6 +18,11 @@ def gemiddelde(getallen):
         return 0
     return sum(getallen) / len(getallen)
 
+marten = __name__
+
+if __name__ == "__main__":
+    print("script wordt direct uitgevroerd.")
+    
 # === Assert tests ===
 
 # omtrek_cirkel
