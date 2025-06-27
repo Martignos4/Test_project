@@ -13,4 +13,6 @@ def pythagoras(a, b):
 def gemiddelde(getallen):
     if getallen != type(list):
         return 0
-    return sum (getallen) / len(getallen)
+    return sum (getallen) / len(getallen) 
+    
+ 
